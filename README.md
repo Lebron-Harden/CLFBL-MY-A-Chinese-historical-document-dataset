@@ -5,7 +5,7 @@ Dataset
 
 The Complete Library in the Four Branches of Literature of Ming history and Yuan history(CLFBL-MY) Dataset is released for the research of Traditional Chinese character recognition and detection. Text images are from the Ming history and Yuan history part of Complete Library in the Four Branches of Literature.
 
-Download link: 
+Download link: https://pan.baidu.com/s/1QSNTLHkjLL7Ea5RczDBDHA (password: 2k4b)
 
 Dataset description
 ---
